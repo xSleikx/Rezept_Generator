@@ -52,9 +52,6 @@ python app.py
 2. Schritt-Nummer auswählen und optional eine Frage zu diesem Schritt stellen.
 3. **Erklären** klicken → Text + Audio werden angezeigt.
 4. **Rezept anzeigen** lädt die aktuelle Rezeptanleitung, falls sie noch nicht sichtbar ist.
-
-💡 **Tipp:** Du kannst mehrere Schritte hintereinander abspielen, um eine Mini-Kochstunde zu haben!  
-
 ---
 
 ## 📁 Projektstruktur
