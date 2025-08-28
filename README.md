@@ -1,6 +1,6 @@
 # 🍳 Rezept-Anleitung Generator mit Audio-Erklärungen
 
-Dieses Tool erstellt automatisch Schritt-für-Schritt-Rezepte aus Zutaten und Video-Transkripten – und erklärt jeden Schritt auf Englisch mit Audio! Perfekt für alle, die beim Kochen Unterstützung brauchen oder einfach Spaß am Experimentieren haben. 😄
+Dieses Tool erstellt automatisch Schritt-für-Schritt-Rezepte aus Zutaten und Video-Transkripten – und erklärt jeden Schritt auf Englisch mit Audio!
 
 ---
 
@@ -8,7 +8,7 @@ Dieses Tool erstellt automatisch Schritt-für-Schritt-Rezepte aus Zutaten und Vi
 
 - 📝 **Rezept automatisch erstellen:** Basierend auf Zutatenliste und Video-Transkript.
 - 🎧 **Schritte auf Englisch erklären:** Mit Text und Audio.
-- 🔊 **Audio-Generierung:** Hört sich wie ein persönlicher Kochassistent an (via [Kokoro](https://github.com/hexgrad/kokoro)).
+- 🔊 **Audio-Generierung:** via [Kokoro](https://github.com/hexgrad/kokoro).
 - 🖥️ **Gradio-Interface:** Einfach, interaktiv und benutzerfreundlich.
   - Tab 1: **Rezept erstellen**
   - Tab 2: **Schritt erklären & Audio hören (Englisch)**
