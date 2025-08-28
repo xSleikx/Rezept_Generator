@@ -48,7 +48,7 @@ python app.py
 4. Optional: **Clear** Button, um alle Felder zurückzusetzen.
 
 ### 2️⃣ Schritt erklären
-1. Zum Tab „Schritt erklären auf Englisch (mit Audio)“ wechseln.
+1. Zum Tab „Schritt erklären auf Englisch (mit Audio)“ wechseln und drücke auf **Rezept anzeigen**.
 2. Schritt-Nummer auswählen und optional eine Frage zu diesem Schritt stellen.
 3. **Erklären** klicken → Text + Audio werden angezeigt.
 4. **Rezept anzeigen** lädt die aktuelle Rezeptanleitung, falls sie noch nicht sichtbar ist.
