@@ -61,7 +61,7 @@ python app.py
 
 ```
 .
-├── main.py            # Gradio-Interface und Logik
+├── app.py            # Gradio-Interface und Logik
 ├── load_models.py     # Lädt den KI-Agenten (GroqModel)
 ├── zutaten.txt        # Beispiel-Zutaten
 ├── transkript.txt     # Beispiel-Video-Transkript
