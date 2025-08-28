@@ -84,6 +84,3 @@ python app.py
 MIT License
 
 ---
-
-## Viel Spaß beim Kochen! 😋🍽️
-
