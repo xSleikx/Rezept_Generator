@@ -88,7 +88,5 @@ MIT License
 
 ---
 
-## 🖤 Danke
-
-Viel Spaß beim Kochen! 😋🍽️
+## Viel Spaß beim Kochen! 😋🍽️
 
