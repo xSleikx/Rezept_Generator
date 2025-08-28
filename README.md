@@ -22,7 +22,7 @@ Abhängigkeiten installieren:
 pip install -r requirements.txt
 ```
 
-3. API-Key einrichten:
+API-Key einrichten:
 - Erstelle eine `.env` Datei im Projektordner:
 ```env
 GROQ_API_KEY ='your_groq_api_key_here'
