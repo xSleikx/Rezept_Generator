@@ -52,9 +52,20 @@ python app.py
 ### 2️⃣ Schritt erklären
 1. Zum Tab „Schritt erklären auf Englisch (mit Audio)“ wechseln und drücke auf **Rezept anzeigen**.
 2. Schritt-Nummer auswählen und optional eine Frage zu diesem Schritt stellen.
-3. **Erklären** klicken → Text + Audio werden angezeigt.
-4. **Rezept anzeigen** lädt die aktuelle Rezeptanleitung, falls sie noch nicht sichtbar ist.
+3. **Rezept anzeigen** lädt die aktuelle Rezeptanleitung, falls sie noch nicht sichtbar ist.
+4. **Erklären** klicken → Text + Audio werden angezeigt.
 ---
+
+## 🔊 Beispiel-Audio (Kokoro TTS)
+
+Höre dir ein Beispiel an, nachdem ich die Frage  
+**„Gibt es noch andere Bindungsmöglichkeiten für die Soße?“**  
+zu **Schritt 10** gestellt habe:
+
+<audio controls>
+  <source src="examples/kokoro.wav" type="audio/wav">
+  Dein Browser unterstützt das Audio-Element nicht.
+</audio>
 
 ## 📁 Projektstruktur
 
@@ -64,7 +75,7 @@ python app.py
 ├── load_models.py     # Lädt den KI-Agenten (GroqModel)
 ├── zutaten.txt        # Beispiel-Zutaten
 ├── transkript.txt     # Beispiel-Video-Transkript
-├── kokoro_audio.py    # Kokoro Audio-Generierung
+├── examples            # Kokoro Audio Beispiel
 ├── requirements.txt   # Python-Abhängigkeiten
 └── README.md
 ```
