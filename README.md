@@ -62,8 +62,11 @@ Höre dir ein Beispiel an, nachdem ich die Frage
 **„Gibt es noch andere Bindungsmöglichkeiten für die Soße?“**  
 zu **Schritt 10** gestellt habe:
 
+[▶️ Hier wav downloade](https://github.com/xSleikx/Rezept_Generator/raw/main/examples/kokoro.wav)
+
 <video controls width="300" height="50">
-  <source src="./examples/kokoro.mp3" type="audio/mpeg">
+  <source src="examples/kokoro.mp4" type="audio/mpeg">
+  Your browser does not support the video tag.
 </video>
 
 ## 📁 Projektstruktur
