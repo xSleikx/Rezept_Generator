@@ -2,7 +2,7 @@
 
 Dieses Tool generiert automatisch Schritt-für-Schritt-Rezepte aus Zutatenlisten und YouTube-Video-Transkripten.
 Dank pydantic-ai und groq können zu einzelnen Zubereitungsschritten gezielt Fragen gestellt werden.
-Die Antworten werden automatisch mit Kokoro TTS als Audio ausgegebe.
+Die Antworten werden automatisch mit Kokoro TTS als Audio ausgegeben.
 
 ---
 
