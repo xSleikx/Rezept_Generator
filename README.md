@@ -62,8 +62,7 @@ Höre dir ein Beispiel an, nachdem ich die Frage
 **„Gibt es noch andere Bindungsmöglichkeiten für die Soße?“**  
 zu **Schritt 10** gestellt habe:
 
-<audio controls>
-  <source src="examples/kokoro.wav" type="audio/wav">
+<audio controls src="https://raw.githubusercontent.com/<USER>/<REPO>/main/examples/kokoro.wav">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>
 
