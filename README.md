@@ -63,8 +63,7 @@ Höre dir ein Beispiel an, nachdem ich die Frage
 zu **Schritt 10** gestellt habe:
 
 <audio controls>
-  <source src="examples/kokoro.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
+  <source src="./examples/kokoro.mp3" type="audio/mpeg">
 </audio>
 
 ## 📁 Projektstruktur
