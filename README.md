@@ -64,7 +64,7 @@ zu **Schritt 10** gestellt habe:
 
 <audio controls>
   <source src="examples/kokoro.mp3" type="audio/mpeg">
-  Your browser does not support the video tag.
+  Your browser does not support the audio tag.
 </audio>
 
 ## 📁 Projektstruktur
