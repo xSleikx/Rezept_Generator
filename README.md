@@ -1,6 +1,8 @@
-# 🍳 Rezept-Anleitung Generator mit Audio-Erklärungen
+# 🍳 YouTube Rezept-Anleitungs-Generator mit Audio-Erklärungen
 
-Dieses Tool erstellt automatisch Schritt-für-Schritt-Rezepte aus Zutaten und Video-Transkripten – und erklärt jeden Schritt auf Englisch mit Audio!
+Dieses Tool generiert automatisch Schritt-für-Schritt-Rezepte aus Zutatenlisten und YouTube-Video-Transkripten.
+Dank pydantic-ai und groq können zu einzelnen Zubereitungsschritten gezielt Fragen gestellt werden.
+Die Antworten werden automatisch mit Kokoro TTS als Audio ausgegebe.
 
 ---
 
