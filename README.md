@@ -64,11 +64,6 @@ zu **Schritt 10** gestellt habe:
 
 [▶️ Hier anhören](https://github.com/xSleikx/Rezept_Generator/raw/main/examples/kokoro.wav)
 
-<audio controls>
-  <source src="https://github.com/xSleikx/Rezept_Generator/raw/main/examples/kokoro.mp3" type="audio/mpeg">
-  ...
-</audio>
-
 ## 📁 Projektstruktur
 
 ```
