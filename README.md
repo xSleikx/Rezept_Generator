@@ -62,7 +62,7 @@ Höre dir ein Beispiel an, nachdem ich die Frage
 **„Gibt es noch andere Bindungsmöglichkeiten für die Soße?“**  
 zu **Schritt 10** gestellt habe:
 
-[▶️ Hier wav downloade](https://github.com/xSleikx/Rezept_Generator/raw/main/examples/kokoro.wav)
+[▶️ Hier wav downloaden](https://github.com/xSleikx/Rezept_Generator/raw/main/examples/kokoro.wav)
 
 <video controls width="300" height="50">
   <source src="examples/kokoro.mp4" type="audio/mpeg">
