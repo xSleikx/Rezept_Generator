@@ -12,9 +12,12 @@ Die Antworten werden automatisch mit Kokoro TTS als Audio ausgegeben.
 - 🎧 **Schritte auf Englisch erklären:** Mit Text und Audio.
 - 🔊 **Audio-Generierung:** via [Kokoro](https://github.com/hexgrad/kokoro).
 - 🖥️ **Gradio-Interface:** Einfach, interaktiv und benutzerfreundlich.
-  - Tab 1: **Rezept erstellen**
-  - Tab 2: **Schritt erklären & Audio hören (Englisch)**
 
+### Tab 1 – Rezept erstellen
+![Rezept erstellen](examples/tab1.png)
+
+### Tab 2 – Schritt erklären & Audio
+![Schritt erklären](examples/tab2.png)
 ---
 
 ## 🚀 Installation
